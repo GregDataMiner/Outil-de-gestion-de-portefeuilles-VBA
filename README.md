@@ -2,6 +2,9 @@
 
 Ce projet est une application développée en VBA permettant la gestion d'un portefeuille financier. Il inclut l'inventaire des clients, l'analyse des investissements, le suivi des actifs et des performances, ainsi que l'évaluation des risques par secteur et par pays.
 
+
+🔗 **Accès à l'outil sur GitHub** : [Cliquez ici](outil_gestion_portefeuille.xlsm)
+
 ---
 ## 📌 Fonctionnalités principales
 ✅ **Suivi des clients** : Inventaire des clients avec leur portefeuille respectif.  
